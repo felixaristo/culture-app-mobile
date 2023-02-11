@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'cultureapp',
+  appId: 'com.dls.culture',
+  appName: 'Culture App',
   webDir: 'www',
   bundledWebRuntime: false
 };
